@@ -39,7 +39,7 @@ else:
         os.rename(subs[i], newname)
         print(f"{subs[i]} renamed to {newname}")
 
-print(f"Successifully renamed {len(subs)} movies/subtitles.")
+print(f"Successifully renamed {len(subs)} movies/subtitles!")
 
 
 
