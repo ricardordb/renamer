@@ -4,7 +4,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/languages/code-size/ricardordb/renamer)
 ![GitHub language count](https://img.shields.io/github/languages/count/ricardordb/renamer)
-![GitHub forks](https://img.shields.io/github/languages/count/ricardordb/renamer)
+![GitHub Licence](https://img.shields.io/github/license/ricardordb/renamer)
 
 
 
