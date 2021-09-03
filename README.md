@@ -4,7 +4,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/languages/code-size/ricardordb/renamer)
 ![GitHub language count](https://img.shields.io/github/languages/count/ricardordb/renamer)
-![GitHub Licence](https://img.shields.io/github/license/ricardordb/renamer)
+[![license](https://img.shields.io/github/license/Jire/KTON.svg)](https://github.com/Jire/KTON/blob/master/LICENSE.txt)
+
 
 
 
@@ -42,7 +43,7 @@ Feel free to check GitHub documentation in [How to make a pull request](https://
 
 ## 📝 License
 
-Licensed under the Apache License, Version 2.0 (the "License").
+Licensed under the Apache License, Version 2.0 (the "License").[License](LICENSE.md)
 You may not use this file except in compliance with the License. 
 You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 
