@@ -43,7 +43,7 @@ Feel free to check GitHub documentation in [How to make a pull request](https://
 
 ## 📝 License
 
-Licensed under the Apache License, Version 2.0 (the "License").[License](LICENSE.md)
+Licensed under the Apache License, Version 2.0 (the "License").[License](LICENSE)
 You may not use this file except in compliance with the License. 
 You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 
